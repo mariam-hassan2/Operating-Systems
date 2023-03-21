@@ -1,0 +1,1 @@
+This project simulates a FIFO queue with arrival and service randomness and  a low, medium, and high preemptive priority. The program prints throughput and latency statistics for each class. 
